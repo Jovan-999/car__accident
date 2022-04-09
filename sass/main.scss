@@ -4,9 +4,4 @@ $font-size: 'font-size: 100px';
 
 // import bootstrap
 @import '../node_modules/bootstrap/scss/bootstrap';
-
-.brown-box {
-  &__title {
-    background-color: $secondary;
-  }
-}
+@import '/sass/car.scss';
